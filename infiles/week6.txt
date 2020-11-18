@@ -1,0 +1,20 @@
+On the right:Till höger
+Left:vänster
+Wheel:hjul
+High:hög
+Place:plats, ställe
+Roads:vägar
+Statue:staty
+Castle:slott
+Meters:meter
+Thousand:tusen
+Library:bibliotek
+Art:Bild 
+Crafts:Slöjd
+Grades:betyg
+principal:Rektor 
+Science studies:Naturorienterande ämnen (NO) 
+Social study subjects:Samhällsorienterade ämnen (SO)
+Physical education and health:Idrott och hälsa 
+Technology:Teknik
+Swedish:Svenska

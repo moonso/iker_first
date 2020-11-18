@@ -1,0 +1,7 @@
+Måndag:lundi
+Tisdag:mardi
+Onsdag:mercredi
+Torsdag:jeudi
+Fredag:vendredi
+Lördag:samedi
+Söndag:dimanche
